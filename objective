@@ -1,0 +1,4 @@
+Configure NFS between client and Server from Ubuntu server to OpenSuse leap 15.0 
+Objective: This task involves setting up an NFS server
+on an Ubuntu machine and configuring an NFS client on an OpenSUSE machine
+to access a shared directory.
